@@ -12,14 +12,12 @@ Figure 1 below shows the table generated to answer the question of who will be e
 
 ![Graph](/Data/retiring_titles.PNG)
 
-Figure 2 below shows the table that was generated to answer the question of employees eligible for mentorship.  1549 employees were identified for the mentorship.  
+Figure 2 below answers the question of employees eligible for mentorship.  1549 employees were identified for the mentorship.  
 Although there are nearly 90, 000 staff who could potentially retire, and only 1549 employees were identified for mentorship.  We can conclude that:
 -	The company will need to broaden it’s requirements for enrolling in the corporate mentorship program, and
 -	The company may need to engage in an immediate hiring effort to fill the vacancies left by the retiring employees.
 
-![Graph](/Data/mentorship_eligibility.PNG)
-
-
+![Graph](/Data/mentorship_eligibilty.PNG)
 
 ### Summary
 As the ‘silver tsunami’ makes an impact, over 90 000 roles will need to be filled.  

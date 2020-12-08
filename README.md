@@ -23,7 +23,7 @@ Although there are nearly 90, 000 staff who could potentially retire, and only 1
 As the ‘silver tsunami’ makes an impact, over 90 000 roles will need to be filled.  
 And we have only identified 1549 mentors for the next generation.  
 -	We will need to broaden our hiring and mentor eligibility requirements
+
 -	It would be helpful to understand what roles the 1549 mentors will fulfill?  Are they engineers or managers?  It would be easy to run a table to extract this data.
--	
 -	It would be helpful to do a statistical analysis and find out whether the expected retirement volume will be evenly spread out over a few years, or whether the retirement will occur in large volumes in the early years.  A regression analysis to identify the distribution of ages in the eligible retiree population would be helpful.
 
